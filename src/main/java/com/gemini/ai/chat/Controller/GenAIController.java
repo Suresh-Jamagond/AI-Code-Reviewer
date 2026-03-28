@@ -1,7 +1,6 @@
 package com.gemini.ai.chat.Controller;
 
 import com.gemini.ai.chat.Model.CodeReview;
-import com.gemini.ai.chat.Model.ReviewRequest;
 import com.gemini.ai.chat.service.InterviewCoachService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
