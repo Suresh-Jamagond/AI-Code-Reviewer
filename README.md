@@ -6,7 +6,7 @@ A high-performance backend service that leverages **Generative AI** to perform a
 ---
 
 ## 🛠️ Technical Architecture
-* **Java 21**: Utilizing **Records** for immutable, type-safe Data Transfer Objects (DTOs).
+* **Java**: Utilizing **Records** for immutable, type-safe Data Transfer Objects (DTOs).
 * **Spring Boot 3.4+**: Providing the core RESTful infrastructure.
 * **Spring AI (Google Gemini Starter)**: Orchestrating the connection to the Gemini 1.5 Flash model.
 * **Maven**: Dependency management and build automation.
@@ -24,7 +24,7 @@ A high-performance backend service that leverages **Generative AI** to perform a
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
-- **JDK 21** or higher.
+- **JDK 17** or higher.
 - A **Gemini API Key** (Get one for free at [Google AI Studio](https://aistudio.google.com/)).
 
 ### 2. Configuration
